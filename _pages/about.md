@@ -32,4 +32,18 @@ Publication
 
 [\[Paper\]](https://arxiv.org/abs/2312.02216) [\[Github\]](https://github.com/RickySkywalker/DragVideo-Official)
 
+---
+
+### \[EMNLP 2023 (Findings)\] Let's Synthesize Step by Step: Iterative Dataset Synthesis with Large Language Models by Extrapolating Errors from Small Models
+
+**Ruida Wang**, [Wangchunshu Zhou](https://michaelzhouwang.github.io/), [Mrinmaya Sachan](https://www.mrinmaya.io/)
+
+![S3](../assets/images/S3-MainPlot.jpg)
+
+[\[Paper\]](https://aclanthology.org/2023.findings-emnlp.791/) [\[Github\]](https://github.com/RickySkywalker/Synthesis_Step-by-Step_Official)
+
+
+Preprint
+===
+
 
