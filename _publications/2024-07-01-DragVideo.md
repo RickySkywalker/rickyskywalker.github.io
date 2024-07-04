@@ -3,7 +3,7 @@ title: "DragVideo: Interactive Drag-style Video Editing"
 collection: publications
 permalink: /publication/2024-07-01-DragVideo
 date: 2024-07-01
-venue: *ECCV2024*
+venue: ’ECCV2024‘
 paperurl: 'https://arxiv.org/pdf/2312.02216'
 ---
 
