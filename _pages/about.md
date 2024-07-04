@@ -61,7 +61,6 @@ margin-left: 0px;
 <font size="3" >
 <a href="https://yfde.cc/">Yufan Deng</a>*,
 <b> Ruida Wang</b>*,
-<a href="https://github.com/RickySkywalker">Ruida Wang</a>*,
 <a href="https://yzhanglp.com/">Yuhao Zhang</a>*,
 <a href="https://yuwingtai.github.io/">Yu-Wing Tai</a>, 
 <a href="http://www.cs.ust.hk/~cktang/">Chi-Keung Tang</a> <br>
