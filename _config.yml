@@ -22,13 +22,13 @@ repository               : "rickyskywalker.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ruida Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Yr1 Ph.D. student at the University of Wisconsin-Madison, interested in boosting LLM ability in long-tail task"
+  location         : "Madison, WI, USA"
+  employer         : "University of Wisconsin-Madison"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rwang497@wisc.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
