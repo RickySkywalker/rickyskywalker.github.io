@@ -11,26 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. Student in Computer Science, University of Wisconsin-Madison 2024-now
+* BSc in Data Science and Technology, double major in Computer Science, Hong Kong University of Science and Technology (HKUST), 2020-2024
+* Exchange student at ETH Zurich 2023, Spring
 
+<!--
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Tencent APEX Mobile game producer intern
   
 Skills
 ======
@@ -62,3 +50,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
