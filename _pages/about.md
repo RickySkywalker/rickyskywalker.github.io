@@ -24,13 +24,14 @@ Publication
 
 ### \[ECCV 2024\] DragVideo: Interactive Drag-style Video Editing
 
-[Yufan Deng](https://yfde.cc/)\*, **Ruida Wang** \*, [Yuhao Zhang](https://yzhanglp.com/)\*, [Yu-Wing Tai](https://yuwingtai.github.io/), [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/)
+[Yufan Deng](https://yfde.cc/)\*, **Ruida Wang** \*, [Yuhao Zhang](https://yzhanglp.com/)\*, [Yu-Wing Tai](https://yuwingtai.github.io/), [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/) (\* indicates equal contributions)
 
 ![DragVideo](../assets/images/dragvideo.gif)
 
 <!-- <img src="../assets/images/dragvideo.gif" alt="DragVideo" style="width:200%;"> -->
 
 [\[Paper\]](https://arxiv.org/abs/2312.02216) [\[Github\]](https://github.com/RickySkywalker/DragVideo-Official)
+
 
 ---
 
@@ -46,4 +47,11 @@ Publication
 Preprint
 ===
 
+### TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts
+
+**Ruida Wang**\*, [Jipeng Zhang](https://2003pro.github.io/)\*, [Yizhen Jia](https://github.com/wheresmyhair)\*, [Rui Pan](https://github.com/research4pan), [Shizhe Diao](https://shizhediao.github.io/), [Renjie Pi](https://pipilurj.github.io/), [Tong Zhang](https://tongzhang-ml.org/) (\* indicates first authors)
+
+![TheoremLlama](../assets/images/TheoremLlama-MainPlot.png)
+
+[\[Paper\]](https://arxiv.org/abs/2407.03203/ ) [\[Github\]](https://github.com/RickySkywalker/TheoremLlama) [\[Model Ckpt\]](https://huggingface.co/RickyDeSkywalker/TheoremLlama) [\[OBT Dataset\]](https://huggingface.co/datasets/RickyDeSkywalker/OpenBootstrappedTheorem) 
 
