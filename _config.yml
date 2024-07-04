@@ -21,7 +21,7 @@ repository               : "rickyskywalker.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./assets/images/profile.jpg"
+  avatar           : "https://github.com/RickySkywalker/rickyskywalker.github.io/blob/master/assets/images/profile.jpg"
   name             : "Ruida Wang"
   pronouns         : # example: "she/her"  
   bio              : "Yr1 Ph.D. student at the University of Wisconsin-Madison"
