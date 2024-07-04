@@ -26,7 +26,9 @@ Publication
 
 [Yufan Deng](https://yfde.cc/)\*, **Ruida Wang** \*, [Yuhao Zhang](https://yzhanglp.com/)\*, [Yu-Wing Tai](https://yuwingtai.github.io/), [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/)
 
-<img src="../assets/images/dragvideo.gif" alt="DragVideo" style="width:200%;">
+![DragVideo](../assets/images/dragvideo.gif)
+
+<!-- <img src="../assets/images/dragvideo.gif" alt="DragVideo" style="width:200%;"> -->
 
 [\[Paper\]](https://arxiv.org/abs/2312.02216) [\[Github\]](https://github.com/RickySkywalker/DragVideo-Official)
 
