@@ -15,6 +15,16 @@ Education
 * BSc in Data Science and Technology, double major in Computer Science, Hong Kong University of Science and Technology (HKUST), 2020-2024
 * Exchange student at ETH Zurich 2023, Spring
 
+Work experience
+======
+* Summer 2022: Tencent APEX Mobile game producer intern
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 <!--
 Work experience
 ======
