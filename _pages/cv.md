@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Student in Computer Science, University of Wisconsin-Madison 2024-now
+* Tradtional Master/Ph.D. Student in Computer Science, University of Wisconsin-Madison 2024-now
 * BSc in Data Science and Technology, double major in Computer Science, Hong Kong University of Science and Technology (HKUST), 2020-2024
 * Exchange student at ETH Zurich 2023, Spring
 
