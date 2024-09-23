@@ -21,6 +21,15 @@ My ultimate research goal is to make machine learning systems have compatible ab
 
 # Publication
 
+### \[EMNLP 2024 (Main)\] TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts
+
+**Ruida Wang**\*, [Jipeng Zhang](https://2003pro.github.io/)\*, [Yizhen Jia](https://github.com/wheresmyhair)\*, [Rui Pan](https://github.com/research4pan), [Shizhe Diao](https://shizhediao.github.io/), [Renjie Pi](https://pipilurj.github.io/), [Tong Zhang](https://tongzhang-ml.org/) (\* indicates first authors)
+
+![TheoremLlama](../assets/images/TheoremLlama-MainPlot.png)
+
+[\[Paper\]](https://arxiv.org/abs/2407.03203/ ) [\[Github\]](https://github.com/RickySkywalker/TheoremLlama) [\[Model Ckpt\]](https://huggingface.co/RickyDeSkywalker/TheoremLlama) [\[OBT Dataset\]](https://huggingface.co/datasets/RickyDeSkywalker/OpenBootstrappedTheorem) 
+
+
 ### \[ICDM 2024\] SR-PredictAO: Session-based Recommendation with High-Capability Predictor Add-On
 
 **Ruida Wang**, [Raymong Chi-Wing Wong](https://www.cse.ust.hk/~raywong/), [Weile Tan](https://scholar.google.com/citations?user=lj7cW2oAAAAJ&hl=zh-CN)
@@ -55,14 +64,6 @@ My ultimate research goal is to make machine learning systems have compatible ab
 
 Preprint
 ===
-
-### TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts
-
-**Ruida Wang**\*, [Jipeng Zhang](https://2003pro.github.io/)\*, [Yizhen Jia](https://github.com/wheresmyhair)\*, [Rui Pan](https://github.com/research4pan), [Shizhe Diao](https://shizhediao.github.io/), [Renjie Pi](https://pipilurj.github.io/), [Tong Zhang](https://tongzhang-ml.org/) (\* indicates first authors)
-
-![TheoremLlama](../assets/images/TheoremLlama-MainPlot.png)
-
-[\[Paper\]](https://arxiv.org/abs/2407.03203/ ) [\[Github\]](https://github.com/RickySkywalker/TheoremLlama) [\[Model Ckpt\]](https://huggingface.co/RickyDeSkywalker/TheoremLlama) [\[OBT Dataset\]](https://huggingface.co/datasets/RickyDeSkywalker/OpenBootstrappedTheorem) 
 
 ---
 
