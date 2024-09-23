@@ -3,7 +3,7 @@ title: "TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts"
 collection: publications
 permalink: /publication/2024-07-03-TheoremLlama
 date: 2024-07-03
-venue: 'Preprint'
+venue: 'EMNLP 2024 (Main)'
 paperurl: 'https://arxiv.org/pdf/2407.03203'
 ---
 
