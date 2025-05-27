@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a first-year traditional Master/Ph.D. student in Computer Science at the University of Wisconsin-Madison. I obtained a BSc degree in Data Science and Technology (DSCT) with a double major in Computer Science from the School of Science at the Hong Kong University of Science and Technology (HKUST). 
+Hello there, I am a first-year Ph.D. student in Computer Science at the University of Illinois Urbana-Champaign under supervision of Professor [Tong Zhang](https://tongzhang-ml.org/). I obtained a BSc degree in Data Science and Technology (DSCT) with a double major in Computer Science from the School of Science at the Hong Kong University of Science and Technology (HKUST). 
 
 During my undergraduate years, I worked with Prof. [Raymond Chi-Wing WONG](https://www.cse.ust.hk/~raywong/) in Data Mining; Prof. [Mrinmaya Sachan](https://www.mrinmaya.io/) in Natural Language Processing (NLP); Prof. [Chi-Keung TANG](https://cse.hkust.edu.hk/~cktang/bio.html) and Prof. [Yu-Wing TAI](https://yuwingtai.github.io/) in Computer Vision; Prof. [Tong Zhang](https://tongzhang-ml.org/) in Lean4 (formal mathematics).
 
@@ -15,11 +15,21 @@ My ultimate research goal is to make machine learning systems have compatible ab
 
 # Education
 
-* Traditional Master/Ph.D. Student in Computer Science, University of Wisconsin-Madison 2024-now
+* Ph.D in Computer Science, University of Illinois Urbana-Champaign, 2025-now
+* Ph.D. Student in Computer Science, University of Wisconsin-Madison, 2024-2025 (transferred to UIUC)
 * BSc in Data Science and Technology, double major in Computer Science, Hong Kong University of Science and Technology (HKUST), 2020-2024
 * Exchange student at ETH Zurich
 
 # Publication
+
+### \[ICML 2025\] MA-LoT: Model-Collaboration Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving
+
+**Ruida Wang**\*, [Rui Pan](https://github.com/research4pan)\*, [Yuxin Li](https://yuxin.li/)\*, [Jipeng Zhang](https://2003pro.github.io/), [Yizhen Jia](https://github.com/wheresmyhair), [Shizhe Diao](https://shizhediao.github.io/), [Renjie Pi](https://pipilurj.github.io/), [Junjie Hu](https://junjiehu.github.io/), [Tong Zhang](https://tongzhang-ml.org/) (\* indicates first authors)
+
+![MA-LoT](../assets/images/MA-LoT.png)
+
+[\[Website\]](https://ma-lot.github.io/) [\[Paper\]](https://arxiv.org/pdf/2503.03205) [\[Github\]](https://github.com/RickySkywalker/LeanOfThought-Official) [\[Model Ckpt\]](https://huggingface.co/RickyDeSkywalker/LoT-Solver) 
+
 
 ### \[EMNLP 2024 (Main)\] TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts
 
