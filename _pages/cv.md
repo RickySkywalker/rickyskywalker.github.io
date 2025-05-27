@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Tradtional Master/Ph.D. Student in Computer Science, University of Wisconsin-Madison 2024-now
+* Ph.D. Student in Computer Science, University of Illinois Urbana-Champaign 2025-now
+* Ph.D. Student in Computer Science, University of Wisconsin-Madison 2024-2025 (transferred to UIUC)
 * BSc in Data Science and Technology, double major in Computer Science, Hong Kong University of Science and Technology (HKUST), 2020-2024
 * Exchange student at ETH Zurich 2023, Spring
 
