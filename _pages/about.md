@@ -22,13 +22,21 @@ My ultimate research goal is to make machine learning systems have compatible ab
 
 # Publication
 
-### \[EMNLP 2025 (Main) Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability\]
+### \[EMNLP 2025 (Main)\] Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability\]
 
 **Ruida Wang**\*, [Yuxin Li](https://yuxin.li/)\*, [Yi R. (May) Fung](https://mayrfung.github.io/), [Tong Zhang](https://tongzhang-ml.org/) (\* indicates first authors)
 
 ![HybridReasoning](../assets/images/HybridReasoning.png)
 
 [\[Paper\]](https://arxiv.org/abs/2505.23703) [\[GitHub\]](https://github.com/RickySkywalker/HybridReasoning)
+
+### \[EMNLP 2025 (Main)\] FANS: Formal Answer Selection for LLM Natural Language Math Reasoning Using Lean4
+
+[Jiarui Yao](https://maxwelljryao.github.io/)\*, **Ruida Wang**\*, [Tong Zhang](https://tongzhang-ml.org/) (\* indicates first authors)
+
+![FANS](../assets/images/FANS.png)
+
+[\[Paper\]](https://arxiv.org/abs/2503.03238) [\[GitHub\]](https://github.com/MaxwellJryao/FANS)
 
 ### \[ICML 2025\] MA-LoT: Model-Collaboration Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving
 
