@@ -22,7 +22,23 @@ My ultimate research goal is to make machine learning systems have compatible ab
 
 # Publication
 
-### \[EMNLP 2025 (Main)\] Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability\]
+### \[ICLR 2026\] GAR: Generative Adversarial Reinforcement Learning for Formal Theorem Proving
+
+**Ruida Wang**, [Jiarui Yao](https://maxwelljryao.github.io/), [Rui Pan](https://github.com/research4pan), [Shizhe Diao](https://shizhediao.github.io/), [Tong Zhang](https://tongzhang-ml.org/)
+
+![GAR](../assets/images/GAR.png)
+
+[\[Paper\]](https://arxiv.org/abs/2510.11769v2) [\[GitHub\]](https://github.com/RickySkywalker/GAR-Official)
+
+### \[ICLR 2026\] Lean4Physics: Comprehensive Reasoning Framework for College-level Physics in Lean4
+
+[Yuxin Li](https://yuxin.li/)\*, **Ruida Wang**\*, [Minghao Liu](https://mark-minghao-liu-web.github.io/)\*, [Wenzhao Ji](https://openreview.net/profile?id=~JI_WenZhao1), [Zhitao He](https://scholar.google.com/citations?user=ULvoYXgAAAAJ&hl=zh-CN), [Rui Pan](https://github.com/research4pan), [Junming Huang](https://www.junminghuang.com/), [Tong Zhang](https://tongzhang-ml.org/), [Yi R. (May) Fung](https://mayrfung.github.io/) (\* indicates first authors)
+
+![Lean4Phys](../assets/images/Lean4PHYS.png)
+
+[\[Paper\]](https://arxiv.org/abs/2510.26094) [\[GitHub\]](https://github.com/ShirleyLIYuxin/Lean4PHYS)
+
+### \[EMNLP 2025 (Main)\] Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability
 
 **Ruida Wang**\*, [Yuxin Li](https://yuxin.li/)\*, [Yi R. (May) Fung](https://mayrfung.github.io/), [Tong Zhang](https://tongzhang-ml.org/) (\* indicates first authors)
 
@@ -90,6 +106,14 @@ My ultimate research goal is to make machine learning systems have compatible ab
 
 Preprint
 ===
+
+### Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory
+
+**Ruida Wang**, [Jerry Huang](https://jh603.github.io/), [Pengcheng Wang](https://pchengwang.github.io/), [Xuanqing Liu](https://xuanqing94.github.io/), [Luyang Kong](https://www.linkedin.com/in/luyangkong/), [Tong Zhang](https://tongzhang-ml.org/)
+
+![Lean4Agent](../assets/images/Lean4Agent.png)
+
+[\[Paper\]](https://github.com/RickySkywalker/Lean4Agent/blob/main/assets/paper.pdf) [\[GitHub\]](https://github.com/RickySkywalker/Lean4Agent)
 
 ---
 
